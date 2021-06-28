@@ -80,5 +80,5 @@ string ari(string a)
   {
   return "Professor";
   }
- return "NADA"
+ return "NADA";
 }
